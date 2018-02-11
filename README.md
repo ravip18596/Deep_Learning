@@ -13,6 +13,8 @@
 
 ![convolutional neural networks](https://user-images.githubusercontent.com/21110541/32508421-8cbe3448-c3ea-11e7-8743-e55c878ba0a7.PNG)
 
+![sequence models](https://user-images.githubusercontent.com/21110541/36073520-35d04bc6-0f58-11e8-8f2e-a5c0c0752ae7.PNG)
+
 # Deep Learning
 + [x] Neural Networks and Deep Learning
 + [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
